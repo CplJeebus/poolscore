@@ -1,3 +1,3 @@
 # Poolscore
 
-Sill app to keep track of pool scores.
+Simple app to keep track of pool scores.

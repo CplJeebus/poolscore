@@ -4,6 +4,22 @@
 *.dll
 *.so
 *.dylib
+pkg/*
+src/cloud.google.com
+src/github.com
+src/go.opencensus.io
+src/golang.org
+src/google.golang.org
+src/gopkg.in
+
+src/poolscore/lhost
+src/poolscore/rhost
+src/poolscore/Xconfig.yaml
+src/poolscore/poolscore
+src/poolscore/google-key.json
+src/poolscore/players.yaml
+src/poolscore/*.sh
+src/poolscore/.envrc
 
 # Test binary, built with `go test -c`
 *.test
